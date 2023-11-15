@@ -9,7 +9,7 @@ var serverIP string
 var port int
 fmt.Println("Input server IP")
   fmt.Scan(serverIP)
-  fmt.Println("Input Port)
+  fmt.Println("Input Port")
     fmt.Scan(port)
 return port
 return serverIP
