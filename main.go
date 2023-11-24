@@ -5,7 +5,7 @@ import (
     "log"
     "net/http"
     "os"
-	"fmt"
+    "fmt"
 )
 
 func httpGet(url string) {
